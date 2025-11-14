@@ -29,7 +29,7 @@ function Contact() {
             className="flex items-center gap-3 px-4 py-3 bg-white/5 hover:bg-white/10 rounded-lg transition-colors group"
           >
             <FontAwesomeIcon icon={faDiscord} className="text-xl text-white/60 group-hover:text-white" />
-            <span className="text-white/60 group-hover:text-white">Join Discord Server</span>
+            <span className="text-white/60 group-hover:text-white">Join Discord Server- https://discord.gg/cafe-bliss</span>
           </a>
           <a
             href="#"
